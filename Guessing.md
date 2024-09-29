@@ -1,5 +1,6 @@
 ```mermaid
 flowchart TD
+
 A [Start] --> B{What number am I thinking?}
 B --> |guess #1| C[7]
 B --> |guess #2| D[10]
