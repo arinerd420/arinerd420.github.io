@@ -10,7 +10,7 @@ E --> G{What number am I thinking?}
 F --> G{What number am I thinking?}
 G --> |guess #1| H[3]
 G --> |guess #2| I[5]
-H --> [Better luck next time! =0pts]
+H --> [better luck next time! =0pts]
 I --> [You guessed it! =2pts]
 I --> J|Congratualtions Winner!|
 J --> K[END] 
