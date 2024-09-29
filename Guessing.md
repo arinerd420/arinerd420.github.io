@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD
-A [Begin] --> B{What number am I thinking?}
+A [Start] --> B{What number am I thinking?}
 B --> |guess #1| C[7]
 B --> |guess #2| D[10]
 C --> E[You guessed it! =2pts]
