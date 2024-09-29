@@ -1,8 +1,4 @@
 ```mermaid
-config:
-  layout: dagre
-  look: handDrawn
-  theme: dark 
 flowchart TD
 A [Begin] --> B{What number am I thinking?}
 B --> |guess #1| C[7]
