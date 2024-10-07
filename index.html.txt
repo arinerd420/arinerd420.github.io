@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <body>
+      <h1>My name is Arianna Ramos</h1>
+      
+      <p>I am currently a student at Wake Tech. I am working towards my associates degree in the IT Service and Support program. I am a beginner in the IT field.</p>
+   
+     </body>
+    <title>My Personal Introduction</title>
+    <style>
+      body {
+              background-color:613045
+       }
+     h1 {
+        color:4A3E57
+      }
+     p {
+     color:481C33
+      }
+    </style>
+  </head>
+</html>
